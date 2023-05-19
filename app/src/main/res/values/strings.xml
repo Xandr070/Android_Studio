@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="camera">camera</string>
+    <string name="camera2">camera2</string>
+</resources>
